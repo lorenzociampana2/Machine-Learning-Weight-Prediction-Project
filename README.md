@@ -1,1 +1,2 @@
 # Machine-Learning-Weight-Prediction-Project
+This project involves developing a predictive model using machine learning to estimate adult weight (WEIGHTLBTC_A) based on a dataset with 617 variables. Working collaboratively, participants analyze the data, apply machine learning algorithms, and explore hyperparameter tuning within the models studied in the course. The final model's performance is evaluated on accuracy, with a report detailing the methodology, algorithms tested, feature selection, and tuning processes, alongside the Python code used.
